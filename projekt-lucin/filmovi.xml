@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<barbie_movies>
+  <movie>
+    <title>Barbie</title>
+    <year>2023</year>
+    <director>Greta Gerwig</director>
+    <genre>Family/comedy</genre>
+    <image>barbie2023.jpg</image>
+  </movie>
+  <movie>
+    <title>Barbie in the Nutcracker</title>
+    <year>2001</year>
+    <director>Owen Hurley</director>
+    <genre>Animation</genre>
+    <image>barbie2001.jpg</image>
+  </movie>
+  <movie>
+    <title>Barbie as Rapunzel</title>
+    <year>2002</year>
+    <director>Owen Hurley</director>
+    <genre>Animation</genre>
+    <image>barbie2002.jpg</image>
+  </movie>
+  <movie>
+    <title>Barbie of Swan Lake</title>
+    <year>2003</year>
+    <director>Owen Hurley</director>
+    <genre>Animation</genre>
+    <image>barbie2003.jpg</image>
+  </movie>
+  <movie>
+    <title>Barbie as the Princess and the Pauper</title>
+    <year>2004</year>
+    <director>William Lau</director>
+    <genre>Animation</genre>
+    <image>barbie2004.jpg</image>
+  </movie>
+  <movie>
+    <title>Barbie Fairytopia: Mermaidia</title>
+    <year>2006</year>
+    <director>William Lau</director>
+    <genre>Animation</genre>
+    <image>barbie2006.jpg</image>
+  </movie>
+</barbie_movies>
